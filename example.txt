@@ -3,3 +3,6 @@ this is an example
 this is a new line
 
 and another one
+
+
+we are creating examples of using GIT!!
